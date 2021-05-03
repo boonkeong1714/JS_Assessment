@@ -1,5 +1,8 @@
 # JS_Assessment: Find My Hat
 
+
+![Find My Hat Interface](https://raw.githubusercontent.com/boonkeong1714/JS_Assessment/main/findmyhat.jpg)
+
 **Reflection Questions:**
 1. What did you like about this project?
 
