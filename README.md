@@ -8,7 +8,7 @@
  - Changed navigation keys to WASD for easier control
  - Added instructions rules
 
-**Reflection Questions:**
+**Reflection Questions:**  
 *1. What did you like about this project?*  
 I have a change to create a game using JS.
 
