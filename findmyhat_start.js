@@ -96,6 +96,8 @@ const myField = new Field(Field.generateField(10,10,0.2));
 myField.runGame();
 
 
+
+
 // myField.start = {x: 1, y: 1};
 // myField.print();
 
