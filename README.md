@@ -3,7 +3,7 @@
 
 ![Find My Hat Interface](https://raw.githubusercontent.com/boonkeong1714/JS_Assessment/main/findmyhat.jpg)
 
-some additional customization:
+**some additional customization:**
  - Added color to path, hat and trap to see them easier
  - Changed navigation keys to WASD for easier control
  - Added instructions rules
