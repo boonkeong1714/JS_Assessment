@@ -1,4 +1,4 @@
-# JS Assessment: Find My Hat
+# JS Assessment: [Find My Hat](https://www.codecademy.com/practice/projects/find-your-hat)
 
 
 ![Find My Hat Interface](https://raw.githubusercontent.com/boonkeong1714/JS_Assessment/main/findmyhat.jpg)
